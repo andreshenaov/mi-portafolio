@@ -1,0 +1,10 @@
+Bienvenido al juego del ahorcadito =)
+El juego consta de dos modos de juego:
+1: Una persona del grupo ingresará una palabra oculta toda en minúsculas y los demás buscaremos descifrarla 
+2: Se seleccionará una palabra de forma aleatoria, cuya temática es acerca de diversos superhéroes
+
+A lo largo del juego cuentas con 8 intentos fallidos totales, es decir, si ingresas una letra y esta no pertenece a la palabra que buscas adivinar, tendrás una vida menos, caso contrario de que la letra se encuentre en la palabra, tus vidas continuarán intactas y verás en pantalla los lugares en los que se encontraba la letra
+
+*** Debes ingresar una letra perteneciente al alfabeto, no será válido ingresar caracteres numéricos ni la letra "ñ", en caso de que incumplas con esto, se tomará como un intento fallido y perderás una de tus 8 vidas ***
+
+Disfruta de este juego creado para hacerte pasar un buen rato ;)
